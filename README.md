@@ -36,13 +36,13 @@ This is a decentralized peer-to-peer (P2P) chat application with **End-to-End En
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/p2p-encrypted-chat.git
-   cd p2p-encrypted-chat
+   git clone https://github.com/your-username/peer-to-peer-chat-application.git
+   cd peer-to-peer-chat-application
 
 2. **Install Dependencies**: Run the following command to install the required Node.js libraries:
     ```bash
-npm install
-This will install the following dependencies:
+    npm install
+    This will install the following dependencies:
 
 Hyperswarm: For P2P networking and connections.
 Hypercore: For message storage and replication.
